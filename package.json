@@ -1,0 +1,29 @@
+{
+  "name": "mongoosenodecrud",
+  "version": "1.0.0",
+  "description": "mongoose node crud api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "node",
+    "api",
+    "crud"
+  ],
+  "author": "tesfanur",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto": "^1.0.1",
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "express-unless": "^0.3.1",
+    "express-validator": "^4.3.0",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2",
+    "mongoose": "^4.13.0"
+  }
+}

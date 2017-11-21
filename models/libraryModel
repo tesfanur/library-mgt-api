@@ -1,0 +1,21 @@
+BOOK
+	    title 
+	    author 
+	    isbn 
+	    price 
+	    edition 
+	    publisherInfo 
+	    publishedYear 
+	    contentLanguage 
+	    numOfCopiesAvailable 
+	    pages
+
+CATEGORY
+		name
+		
+LIBRARIAN
+		firstName
+		lastName
+		email
+		tel
+		phone
